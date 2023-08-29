@@ -5,12 +5,12 @@ from os import path
 
 # ? Tri les fichiers d'un dossier par type
 extensionsVideos    = ['.avi', '.tvs', '.mp4', '.mkv', '.mov', '.wmv', '.mpeg']
-extensionsImage     = ['.jpeg', '.jpg', '.tif', '.png', '.svg', '.webp']
+extensionsImage     = ['.jpeg', '.jpg', '.tif', '.png', '.svg', '.webp', '.heic']
 extensionGIF        = ['.gif']
-extensionsAudio     = ['.wav', '.aiff', '.mp3', '.ogg', '.aac', '.flac']
+extensionsAudio     = ['.wav', '.aiff', '.mp3', '.ogg', '.aac', '.flac', '.m4a']
 extensionHAR        = ['.har']
 extensionsLogs      = ['.html', '.txt', '.log', '.xlog', '.json', '.htm']
-extensionsSetup     = ['.exe', '.msi']
+extensionsSetup     = ['.exe', '.msi', '.jar']
 extensionsCompress  = ['.zip', '.7z', '.rar', '.iso']
 extensionPDF        = ['.pdf']
 extensionOffice     = ['.csv', '.docx', '.ppt', '.xlsx', '.pptx']
